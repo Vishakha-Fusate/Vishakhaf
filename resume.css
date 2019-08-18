@@ -1,0 +1,38 @@
+
+div
+{
+    border-radius: 5px;
+    }
+#header
+{
+    z-index: 1;
+    height:40px;
+    width: 98%;
+    background-color: blacks;
+    margin-bottom: 20px;
+    font-size: 18;
+    }
+#name {
+    float:left;
+ margin-left: 20px;
+ padding-bottom: 10px;
+ font-size: 30px;
+ font-family: Verdana, sans-serif;
+ color: #ffffff;
+}
+#email{
+    float:right;
+    margin-right: 20px;
+ padding-bottom: 10px;
+ font-size: 16px;
+ font-family: Verdana, sans-serif;
+ color: #ffffff;
+}
+#contact
+{
+    margin-left:45%;
+    padding-bottom: 10px;
+ font-size: 16px;
+ font-family: Verdana, sans-serif;
+}
+
